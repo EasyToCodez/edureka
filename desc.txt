@@ -3,3 +3,5 @@ Commands:
 1.	git init
 2.	git remote add  origin "<link>"
 3.	git pull origin master
+4.	git status
+5.	git add new.txt
